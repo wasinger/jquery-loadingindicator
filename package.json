@@ -1,0 +1,12 @@
+{
+  "name": "jquery-loadingindicator",
+  "version": "1.0.0",
+  "description": "A common jQuery API to indicate that an element is loading. To be implemented with a loading indicator / spinner script of your choice.",
+  "main": "loading_indicator.js",
+  "repository": "https://github.com/wasinger/jquery-loadingindicator",
+  "author": "Christoph Singer",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "*"
+  }
+}
